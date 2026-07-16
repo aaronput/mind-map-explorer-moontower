@@ -169,7 +169,7 @@ def fetch_meta(url, timeout=15):
     t = _decode(title.group(1)) if title else ""
     s = _decode(subtitle.group(1)) if subtitle else ""
     # Strip trailing publication suffixes both platforms append.
-    t = re.sub(r'\s*[-|–—·]\s*(Moontower(meta)?|Moontower Meta|Kris Abdelmessih)\s*$', '', t, flags=re.I).strip()
+    t = re.sub(r'\s*[-|–—·]\s*(Party at the Moontower|Moontower(meta)?|Moontower Meta|Kris Abdelmessih)\s*$', '', t, flags=re.I).strip()
     return {"title": t, "subtitle": s}
 
 cache = load_title_cache()
@@ -413,7 +413,7 @@ for idx, p in enumerate(posts):
     summary = real_subtitle or f"{src_lbl} · {p['date']}"
 
     post_type = infer_post_type(slug)
-    concepts = extract_concepts(slug + " " + real_title.lower())
+    concepts = extract_concepts(slug + " " + real_title.lower() + " " + real_subtitle.lower())
     cluster  = assign_cluster(concepts, post_type)
     diff     = infer_difficulty(concepts, slug)
 
