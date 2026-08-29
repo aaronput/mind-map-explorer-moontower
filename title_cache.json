@@ -189,6 +189,11 @@
     "subtitle": "Thursday\u2019s post\u00a0what I want my kids to know\u00a0struck a nerve with readers for different reasons. A close friend noted that it seemed pretty male-centric. Having grown up with only a brother himself, he probably wouldn\u2019t have noticed if it wasn\u2019t for raising a daughter now. He wrote me a thoughtful email about it, analogizing between \u2026 Continue reading \u201ca collection of tradeoffs\u201d \u2192",
     "title": "\"a collection of tradeoffs\""
   },
+  "a-common-marginal-thinking-blindspot": {
+    "fetched": "2026-08-29T20:40:40Z",
+    "subtitle": "Moontower Munchies #165",
+    "title": "a common marginal thinking blindspot"
+  },
   "a-cool-way-to-track-your-portfolio": {
     "fetched": "2026-07-16T18:44:56Z",
     "subtitle": "Friends,",
@@ -1963,6 +1968,11 @@
     "fetched": "2026-08-01T13:46:10Z",
     "subtitle": "Let\u2019s start with this YouTube/Podcast episode where Erik and I discuss hedging. Delta Hedging Cost Benefit Analysis |\u00a0The Options Trench What hedging is: reducing or isolating risks you do not want, to maximize exposure to ones you intend to get paid on The difference between direct hedges and correlated, indirect hedges with basis risk. Why \u2026 Continue reading hedging is for gardeners \u2192",
     "title": "hedging is for gardeners"
+  },
+  "hemispheres": {
+    "fetched": "2026-08-29T20:40:38Z",
+    "subtitle": "Friends,",
+    "title": "hemispheres"
   },
   "hertz-roulette": {
     "fetched": "2026-07-16T18:00:39Z",
@@ -4409,6 +4419,11 @@
     "subtitle": "Friends, I\u2019m visiting my family in NJ so Moontower will return August 12th. That said, today is a longer essay. the sound of inevitability The market is 12-15. 12 bid. 15 offer. The broker sizes up the offer. \u201cHow many you got there? How about you? And you?\u201d A couple of the market makers get \u2026 Continue reading Moontower #323 \u2192",
     "title": "Moontower #323"
   },
+  "moontower-324": {
+    "fetched": "2026-08-29T20:40:44Z",
+    "subtitle": "In this issue: a showdown with yourself unique job opening real-returns trading stock-bond correlation confidence intervals on bounded ranges Friends, Earlier this summer, while still in the midst of reading, I recommended this book: I wrote: My wife and I are both reading this. It\u2019s laugh-out-loud funny. Gary is an excellent writer. The novel is \u2026 Continue reading Moontower #324 \u2192",
+    "title": "Moontower #324"
+  },
   "moontower-33": {
     "fetched": "2026-07-16T17:56:42Z",
     "subtitle": "Friends, For Halloween I\u2019d like the Bay Area to dress up like a first world country. I\u2019m writing this Friday\u00a0evening and expect my power to be shut off tomorrow. So instead of my planned topic, I\u2019m going to share some personal history and perspective from the past\u00a07 years in the Bay Area. In 2012,\u00a0we moved \u2026 Continue reading Moontower #33 \u2192",
@@ -6199,6 +6214,11 @@
     "subtitle": "Last week, in\u00a0embedding spot-vol correlation in option deltas,\u00a0I showed how vol paths use anticipated changes in implied vol as the spot moves around to estimate more accurate deltas. It\u2019s a maneuver that respects delta fully as a hedge ratio rather than its narrow textbook sensitivity of \u201cchange option price per change in underlying price, all \u2026 Continue reading sticky vs floating strike \u2192",
     "title": "sticky vs floating strike"
   },
+  "stock-bond-correlation": {
+    "fetched": "2026-08-29T20:40:46Z",
+    "subtitle": "Return Stacked\u2019s RSSB gives you a dollar of global equities and a dollar of Treasuries on the same dollar of capital. They just listed options on it this week. It will be a useful option market to watch if it gathers liquidity because its implied vol allows you to back out an implied stock-bond correlation \u2026 Continue reading stock-bond correlation \u2192",
+    "title": "stock-bond correlation"
+  },
   "stop-with-the-stop-loss-debate": {
     "fetched": "2026-07-16T18:40:43Z",
     "subtitle": "Certain topics re-infect popular social media discourse like an engineered cold virus. Like when the NY Times is having a slow week and drops the \u201cCouple Can\u2019t Make Ends Meet in NYC on $500k a Year\u201d This is not a fresh take. Sorry to be crass, but NYC is a beacon for dreamers around the \u2026 Continue reading stop with the stop-loss debate \u2192",
@@ -6513,6 +6533,11 @@
     "fetched": "2026-07-16T17:58:27Z",
     "subtitle": "Actions say more than words. The reason is proof of work. Actions usually take far more energy. Sometimes the concepts overlap. Giving a speech at a wedding is words but requires preparation. Thinking, remembering, writing, memorizing, moderating your champagne intake until it\u2019s over. Lots of energy. It\u2019s a meaningful set of actions that manifests as \u2026 Continue reading The Energy To Stay Unique \u2192",
     "title": "The Energy To Stay Unique"
+  },
+  "the-futures-premium-cell": {
+    "fetched": "2026-08-29T20:40:41Z",
+    "subtitle": "Moontower #325",
+    "title": "the futures premium cell"
   },
   "the-game-of-school": {
     "fetched": "2026-07-16T18:41:36Z",
@@ -7718,6 +7743,11 @@
     "fetched": "2026-07-16T18:43:59Z",
     "subtitle": "In stepping through an oil put trade, I wrote: \u201cAs a junior trader I remember selling calls because \u201cit\u2019ll never get there\u201d. I promise you there are many people who think like that. They don\u2019t understand vol trading.\u201d A reader asked: What\u2019s wrong with selling OOM call options if vol is too rich? If it\u2019s \u2026 Continue reading why selling an option because the \u201cstock will never get there\u201d is amateur vol thinking \u2192",
     "title": "why selling an option because the \"stock will never get there\" is amateur vol thinking"
+  },
+  "why-should-i-learn-this": {
+    "fetched": "2026-08-29T20:40:43Z",
+    "subtitle": "I usually have a concrete plan in advance of writing, but today\u2019s letter is totally spontaneous, other than knowing that something would be published. I wrote it all, but found myself stuck on a title. I hope it will make sense by the time you\u2019re done. So\u2026one of my oldest friends, someone I consider family \u2026 Continue reading \u201cwhy should I learn this?\u201d \u2192",
+    "title": "\"why should I learn this?\""
   },
   "why-volatility-still-matters-to-buy-and-hold-investors": {
     "fetched": "2026-07-16T18:54:20Z",
