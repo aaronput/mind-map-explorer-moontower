@@ -809,6 +809,11 @@
     "subtitle": "\ud83c\udf99\ufe0fWrong numbers and why they survive\u00a0|\u00a0Complex System Podcast Patrick McKenzie interviews famous Wall Street quant and author Aaron Brown(Poker Face of Wall Street,\u00a0Red-Blooded Risk) about his new book\u00a0Wrong Number,\u00a0which tackles a stubborn, nagging mule of a question: \u201cWhy do institutions that produce bad statistics face so few consequences?\u201d I really enjoyed the interview and if \u2026 Continue reading \u201cbetting as a tax on bullshit\u201d \u2192",
     "title": "\"betting as a tax on bullshit\""
   },
+  "betting-on-direction-with-short-dated": {
+    "fetched": "2026-09-12T00:59:57Z",
+    "subtitle": "Friends,",
+    "title": "betting on direction with short-dated spreads"
+  },
   "betting-on-pltr-to-40": {
     "fetched": "2026-07-16T18:36:43Z",
     "subtitle": "Notable short seller Andrew Left\u2019s firm Citron Research gave his \u201call roads lead to $40\u201d\u00a0pronouncement\u00a0on X this week regarding\u00a0PLTR\u00a02.90%\u2191\u00a0: Created with\u00a0TradingView Give Palantir the same $100 billion valuation that Databricks just earned. Where does that put the stock? $40. The exact same math we saw when comparing Palantir to OpenAI. Tyler\u00a0pinged me\u00a0before the stock dove \u2026 Continue reading Betting on PLTR to $40 \u2192",
@@ -1739,6 +1744,11 @@
     "subtitle": "Here are 2 simple ways to introduce the idea of encryption to elementary school kids. \u00a0 Ciphers I had them try to decode the following code: 4 15 7 (with some prodding they eventually figured out it was a simple letter-number cipher spelling \u201cdog\u201d) \u00a0 Mastermind You might recognize this game from your own childhood. \u2026 Continue reading Fun Ways To Teach Your Kids Encryption \u2192",
     "title": "Fun Ways To Teach Your Kids Encryption"
   },
+  "futures-premium-cell": {
+    "fetched": "2026-09-12T01:00:10Z",
+    "subtitle": "Back in my SIG days, every trader had a cell on their spreadsheet showing the SPUs (the name for SPX futures back in the day; it\u2019s derived from the September symbol) premium or discount to the \u201ccash\u201d. A little background The cash is the SPX index price based on its components\u2019 spot prices. You can \u2026 Continue reading futures premium cell \u2192",
+    "title": "futures premium cell"
+  },
   "gabriel-leydons-purple-pills-from-his-invest-like-the-best-interview": {
     "fetched": "2026-07-16T17:50:12Z",
     "subtitle": "Video game designer Gabriele Leydon went on Invest Like The Best and dropped deeply provocative bits about what I might describe as design and gamification as a response to a future that has thus far proved disappointing or alienating. I don\u2019t know how much of it I agree with it though I\u2019ll admit I have \u2026 Continue reading Gabriel Leydon\u2019s \u201cPurple Pills\u201d From His Invest Like The Best Interview \u2192",
@@ -2594,6 +2604,11 @@
     "subtitle": "$10 million is the new million. Tech stocks, BTC, whatever you want to call TSLA. Real estate booms in many pockets of the US, second homes gobbled up with all cash offers. I have never seen so many people I personally know make so much money in their investment accounts. I\u2019m not hallucinating. Bloomberg noticed \u2026 Continue reading Is Social Harmony The Last Collateral? \u2192",
     "title": "Is Social Harmony The Last Collateral?"
   },
+  "is-that-log": {
+    "fetched": "2026-09-12T01:00:03Z",
+    "subtitle": "Moontower Munchies #166",
+    "title": "\u201cis that log?\u201d"
+  },
   "is-there-actually-an-equity-premium-puzzle": {
     "fetched": "2026-07-16T18:52:16Z",
     "subtitle": "The equity risk premium, or ERP, is defined as the excess return you get for investing in stocks over the risk-free rate. Simply, it\u2019s the premium return you earn in exchange for dealing with path. The fact that you might experience a 20% drawdown every few years (with U.S. equity markets currently sitting on all-time \u2026 Continue reading Is There Actually An Equity Premium Puzzle? \u2192",
@@ -2978,6 +2993,11 @@
     "fetched": "2026-07-16T18:35:16Z",
     "subtitle": "\ud83c\udf99\ufe0fMedia M&A\u00a0(Business Breakdowns) In this interview, Matt Reustle talks to Blake Saunders, a media investment banking expert and a partner at Core Advisors: We cover the shift from generational ownership of media assets to rapid-fire M&A, how legacy media companies are responding to the potential of YouTube and Substack, and the dystopian economics of a \u2026 Continue reading machine-readable \u2192",
     "title": "machine-readable"
+  },
+  "macro-is-just-chemistry": {
+    "fetched": "2026-09-12T01:00:05Z",
+    "subtitle": "Moontower #326",
+    "title": "macro is just chemistry"
   },
   "macro-voodoo-child-slight-return": {
     "fetched": "2026-07-16T17:54:16Z",
@@ -4423,6 +4443,11 @@
     "fetched": "2026-08-29T20:40:44Z",
     "subtitle": "In this issue: a showdown with yourself unique job opening real-returns trading stock-bond correlation confidence intervals on bounded ranges Friends, Earlier this summer, while still in the midst of reading, I recommended this book: I wrote: My wife and I are both reading this. It\u2019s laugh-out-loud funny. Gary is an excellent writer. The novel is \u2026 Continue reading Moontower #324 \u2192",
     "title": "Moontower #324"
+  },
+  "moontower-325": {
+    "fetched": "2026-09-12T01:00:08Z",
+    "subtitle": "In this issue: for when the world slows down family investing webinar futures premium cell Friends, I\u2019m in Vegas with friends to see GnR this weekend. 36 hours of noise bookended by 1-hour flights of peaceful purification in the form of flight reading. Most of what I read on the regular is work-related and instrumental. \u2026 Continue reading Moontower #325 \u2192",
+    "title": "Moontower #325"
   },
   "moontower-33": {
     "fetched": "2026-07-16T17:56:42Z",
@@ -6064,6 +6089,11 @@
     "subtitle": "The heart of vol trading",
     "title": "Simulating Dynamically Hedged Option Positions"
   },
+  "sizing-directional-option-trades": {
+    "fetched": "2026-09-12T01:00:01Z",
+    "subtitle": "Programming note: In honor of Labor Day, Moontower will not labor this weekend.",
+    "title": "sizing directional option trades"
+  },
   "skynets-already-a-better-dad-than-me": {
     "fetched": "2026-07-16T17:43:35Z",
     "subtitle": "Let\u2019s start with a math puzzle from Martin Gardner\u2019s\u00a0Entertaining Mathematical Puzzles: THE SILVER BAR A silver prospector was unable to pay his March rent in advance. He owned a bar of pure silver, 31 inches long, so he made the following arrangement with his landlady. He would cut the bar into smaller pieces. On the \u2026 Continue reading Skynet\u2019s Already A Better Dad Than Me \u2192",
@@ -7253,6 +7283,11 @@
     "fetched": "2026-07-16T17:54:20Z",
     "subtitle": "Freddie deBoer\u2019s review of Ross Douthat\u2019s The Deep Places, a memoir of Douthat\u2019s illness, is impressively balanced and justified (I say justified because the definition of balance has shifted from what I can tell from \u201creasonable opposition\u201d to \u201cany opposition\u201d as if every view holds equal merit. No doubt a side effect of \u201cdemocratization\u201d of \u2026 Continue reading Unpacking The Beauty Of A deBoer Book Review \u2192",
     "title": "Unpacking The Beauty Of A deBoer Book Review"
+  },
+  "unpaywalledachievement-is-a-fickle": {
+    "fetched": "2026-09-12T00:59:59Z",
+    "subtitle": "Munchies #168",
+    "title": "Unpaywalled:\"Achievement\" is a fickle mistress"
   },
   "unpleasant-chores": {
     "fetched": "2026-07-16T18:41:26Z",
